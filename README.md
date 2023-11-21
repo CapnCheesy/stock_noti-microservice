@@ -48,4 +48,4 @@ print(response.text)
 ![UML Diagram](UML_Diagram.png)
 
 ## Communication Contract
-![Comm Contract](Group173_Communication_Contract.pdf)
+![Communication Contract](Group173_Communication_Contract.pdf)
