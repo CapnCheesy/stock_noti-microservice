@@ -46,3 +46,6 @@ print(response.text)
 
 ## UML Diagram
 ![UML Diagram](UML_Diagram.png)
+
+## Communication Contract
+![Comm Contract](Group173_Communication_Contract.pdf)
