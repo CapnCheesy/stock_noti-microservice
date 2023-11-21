@@ -45,4 +45,4 @@ You can print out the response text as well:
 print(response.text)
 
 ## UML Diagram
-![UML Diagram](UML_Diagram.pdf)
+![UML Diagram](UML_Diagram.png)
